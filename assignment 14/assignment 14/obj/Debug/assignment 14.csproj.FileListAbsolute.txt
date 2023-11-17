@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\assignment 14\assignment 14\bin\Debug\assignment 14.exe.config
+C:\Users\rayar\source\repos\assignment 14\assignment 14\bin\Debug\assignment 14.exe
+C:\Users\rayar\source\repos\assignment 14\assignment 14\bin\Debug\assignment 14.pdb
+C:\Users\rayar\source\repos\assignment 14\assignment 14\obj\Debug\assignment 14.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\assignment 14\assignment 14\obj\Debug\assignment 14.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\assignment 14\assignment 14\obj\Debug\assignment 14.exe
+C:\Users\rayar\source\repos\assignment 14\assignment 14\obj\Debug\assignment 14.pdb
